@@ -14,7 +14,7 @@ fn main() {
     }
 
     let my_arr = &[
-        -1, -2, -3
+        -1, -2, -3,
         -4, -5, -6
     ];
     println!("My array! Here it is: {:?}", my_arr);
